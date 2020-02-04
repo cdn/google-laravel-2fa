@@ -1,6 +1,6 @@
 # Laravel Google Authenticator Example
 
-This is the completed example code that shows how implement two-factor authentication in Laravel using Google Authenticator
+This is the completed example code that shows how implement two-factor authentication in Laravel 5.2 using Google Authenticator
 
 ## Install Instructions
 
@@ -28,3 +28,4 @@ This is the completed example code that shows how implement two-factor authentic
 
 To learn more about this code, read the article "[2FA in Laravel with Google Authenticator - Get Secure!](https://www.sitepoint.com/2fa-in-laravel-with-google-authenticator-get-secure/)".
 
+## To-do upgrade for 5.3+, Latest Laravel is 6.x
